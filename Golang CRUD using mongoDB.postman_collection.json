@@ -1,0 +1,9 @@
+{
+	"info": {
+		"_postman_id": "6c555172-7429-4191-8e7e-569ed3b20ac0",
+		"name": "Golang CRUD using mongoDB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23224262"
+	},
+	"item": []
+}
